@@ -1,0 +1,2 @@
+[nfs_servers]
+192.168.122.25	ansible_connection=ssh ansible_user=root
